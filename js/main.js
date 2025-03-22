@@ -77,10 +77,9 @@
                 if (document.querySelector("#typing-text")) {
                     const typed = new Typed('#typing-text', {
                         strings: [
-                            "TypeScript, JavaScript, React.js, and more.",
                             "PHP, Laravel, SQL<br>and more.",
+                            "TypeScript, JavaScript, React.js, and more.",
                             "user-centric design <br>and clean code.",
-                            "TypeScript, JavaScript, React.js, and more."
                         ],
                         typeSpeed: 50,
                         backSpeed: 30,
